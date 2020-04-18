@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Use Api from https://www.themoviedb.org/documentation/api.
 
 
+Display (https://arimuntari.github.io/img/portfolio/film.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
